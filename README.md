@@ -1,1 +1,1 @@
-# minequest.github.io
+# minequest
